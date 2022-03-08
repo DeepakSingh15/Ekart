@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051252844009",
+    "project_id": "e-kart-8b505",
+    "storage_bucket": "e-kart-8b505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051252844009:android:6838b930f4b93570441778",
+        "android_client_info": {
+          "package_name": "com.example.e_kart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051252844009-h4acenq1ol4ndpm1ucdmr2c2hh6nvakn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOP8KU2PxyL3wHgeNOuYdbY-no2eaK5fE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051252844009-h4acenq1ol4ndpm1ucdmr2c2hh6nvakn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
